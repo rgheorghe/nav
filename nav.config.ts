@@ -35,7 +35,7 @@ const c: IConfig = {
   `,
 
   // Alibaba icon https://www.iconfont.cn/
-  // IT will be used to show side theme's topic one level and second level menu icons Side 主题一级、二级菜单图标展示
+  // IT will be used to show side theme's topic one level and second level menu icons Side
   iconfontUrl: '//at.alicdn.com/t/font_2522843_wl70o31sy6.js',
 
   // Baidu statistics
@@ -44,7 +44,7 @@ const c: IConfig = {
 
   // CNZZ statisitics
   // https://www.cnzz.com/o_index.php
-  cnzzStatisticsUrl: '',
+  //cnzzStatisticsUrl: '',
 
   // Sim Theme Configuration
   simThemeConfig: {

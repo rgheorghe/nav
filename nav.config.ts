@@ -2,7 +2,7 @@ import { IConfig } from './src/types'
 
 const c: IConfig = {
   // [Mondatory], Please replace following Github url with your own Github address which you forked in. 
-  gitRepoUrl: 'https://github.com/51sec/nav',
+  gitRepoUrl: 'https://github.com/rgheorghe/nav',
 
   // Deployment branch name
   branch: 'main',
@@ -14,7 +14,7 @@ const c: IConfig = {
   showGithub: true,
 
   // what is your website address. It is good for your SEO
-  homeUrl: 'https://nav3.cn',
+  homeUrl: 'https://payshim.com',
 
   // Web Site Tiltle
   title: 'Discovery Navigation - Featured and useful navigation websites',
